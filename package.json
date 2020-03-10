@@ -1,7 +1,7 @@
 {
   "name": "lyric-bot",
   "version": "1.0.0",
-  "description": "Twitter bot that generates lyrics using Markov Chains!",
+  "description": "Twitter bot!",
   "main": "bot.js",
   "dependencies": {
     "dotenv": "^6.0.0",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShawnToubeau/lyric-bot.git"
+    "url": "git+https://github.com/GenyLeong/lguzman-bot.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ShawnToubeau/lyric-bot/issues"
+    "url": "hhttps://github.com/GenyLeong/lguzman-bot/issues"
   },
-  "homepage": "https://github.com/ShawnToubeau/lyric-bot#readme"
+  "homepage": "hhttps://github.com/GenyLeong/lguzman-bot#readme"
 }

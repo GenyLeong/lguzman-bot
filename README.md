@@ -1,4 +1,4 @@
-# lyric-bot
-Twitter bot that generates lyrics using Markov Chains!
+# lguzman-bot
+A twitter bot that post lyrics from Luis Guzmán Banda. Lima, Perú.!
 
-To get started, paste any song lyrics into the 'lyrics.txt' file and your [Twitter App](https://apps.twitter.com/) credentials into a .env file.
+[Twitter App](https://apps.twitter.com/) credentials into a .env file.
